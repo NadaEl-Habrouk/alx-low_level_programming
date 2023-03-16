@@ -3,7 +3,7 @@
  * main - A program that prints a line with puts function
  * Return: 0 (Success)
  */
-nt main(void)
+int main(void)
 {
         char a;
         int b;
